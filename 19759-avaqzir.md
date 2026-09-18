@@ -1,0 +1,1527 @@
+第六届中国（厦门）国际跨境电商展览会将凸显对接实效
+
+更新时间：{时间}
+
+栏目：AI Builders Digest　主题：第六届中国（厦门）国际跨境电商展览会将凸显对接实效
+
+摘要
+中新网厦门5月27日电 (林永传)27日在厦门举行的第六届中国(厦门)国际跨境电商展览会(简称“中跨展”)新闻通气会通报，第六届中跨展将于6月8日至10日在厦门国际会展中心举办。 据厦门市贸促会党组书记、会长，厦门国际商会会长邱尖介绍，第六届中跨展以 “跨境互联 货通全球” 为主题，展览面积超过5万平方米，设置1500余个国际标准展位，全国30多个优质产业带、近千家源头工厂，30多家全球主流跨境电商平台和上百家生态服务商将同台亮相。 邱
+
+正文
+中新网厦门5月27日电 (林永传)27日在厦门举行的第六届中国(厦门)国际跨境电商展览会(简称“中跨展”)新闻通气会通报，第六届中跨展将于6月8日至10日在厦门国际会展中心举办。
+
+据厦门市贸促会党组书记、会长，厦门国际商会会长邱尖介绍，第六届中跨展以 “跨境互联 货通全球” 为主题，展览面积超过5万平方米，设置1500余个国际标准展位，全国30多个优质产业带、近千家源头工厂，30多家全球主流跨境电商平台和上百家生态服务商将同台亮相。
+
+邱尖说，本届展会持续夯实 “跨境电商+产业带” 核心发展模式，搭建 “一展览全国好品、一站通全球订单” 的高效对接平台。
+
+展会期间将举办20余场高品质配套活动，聚焦AI智能体、GEO生成引擎优化、RPA自动化等前沿应用，特别关注OPC一人公司如何利用AI实现轻量化全球运营。
+
+展会组委会充分发挥贸促系统海外联络渠道进行客商邀约，持续凸显对接实效。
+
+目前，来自新加坡、泰国、马来西亚、印度尼西亚、菲律宾、韩国、巴西、墨西哥、德国、塞尔维亚、摩尔多瓦、巴基斯坦、赞比亚等国20余家驻华外交机构和境外经贸机构等已确认携采购商来厦对接。
+
+中国(厦门)国际跨境电商展览会，简称“中跨展”，是经中国贸促会批准，国际展览业协会UFI认证的全国性跨境电商专业展会。
+
+前五届累计参展企业超3000家，展览总面积超25万平方米，专业客商超30万人次，意向成交额超百亿元人民币，先后促成了谷歌全球首个跨境电商加速中心、亚马逊全球开店产业带加速器项目、速卖通福建商家运营中心、新蛋厦门运营中心等项目落地。
+
+(完)
+
+黑芝麻智能 A1000 芯片商用，大算力、低功耗，高阶自动驾驶适配。
+| 来源：https://github.com/dib78eatl9/tici/commit/64efa4ff5c478178f4029730ec2ee9676309012f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华润微功率半导体产能扩张，IGBT/MOSFET 放量，新能源汽车拉动需求。
+| 来源：https://github.com/dib78eatl9/tici/commit/84bf47efb2f6b3a92bad718bfad27109559e12b8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+柔性电池技术突破，可穿戴设备续航能力实现翻倍提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/2a5fcaeb7dd658ac6316b9351d96aa61a7fa2046?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华为云 ModelArts + 盘古大模型，AI 开发全流程，政企采购放量。
+| 来源：https://github.com/dib78eatl9/tici/commit/911d7b79bc84d7f961fb9905eda27a09a88e28f5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美股三大指数收跌，标普 500 三连跌，科技股多数走弱，苹果逆势微涨。
+| 来源：https://github.com/dib78eatl9/tici/commit/49a9b0517f10fb2aa14df18f0cd302e53499197d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+展锐春藤 V510 基带迭代，5G/4G 兼容，低功耗，物联网设备放量。
+| 来源：https://github.com/dib78eatl9/tici/commit/1dfec8f80782313903393c203f3e0e950c30e8c6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+消费电子淡季新品迭代，折叠屏、AI 手机成厂商发力重点。
+| 来源：https://github.com/dib78eatl9/tici/commit/e3b9991bfd18bc9e4b6502008b3e338a4d12eb46?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+三星 Exynos 2500 芯片量产，3nm 工艺、AI 能力升级，旗舰手机适配。
+| 来源：https://github.com/dib78eatl9/tici/commit/32bad4119c0fa930cc8c6cbeadbaa00067d1a892?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+快手 AI 直播、短视频工具升级，降低创作门槛，用户活跃度提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/1db8952805bb247786bf2c880d6c06214ee40419?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格触底反弹，DRAM、NAND 涨价周期开启，厂商盈利改善。
+| 来源：https://github.com/dib78eatl9/tici/commit/ae51967ff898b4c1223a0132996cecf425d22c77?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小鹏 XNGP 自动驾驶升级，全场景 AI 辅助，城市 NOA 渗透率提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/3adc3b68a6c716eb69fb181f2469270ee111c575?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+航空客运票价回归合理区间，民航出行客流稳步恢复常态。
+| 来源：https://github.com/dib78eatl9/tici/commit/1c13465616365a0f03b31751f588306d0a7e288d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+联影医疗 AI 影像平台升级，多模态数据融合，诊断效率提升 50%。
+| 来源：https://github.com/dib78eatl9/tici/commit/c0fb3b972ef06291fc47e808dc7503739fc627c3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+家用空气净化设备迭代，高效去除异味病菌优化居家空气。
+| 来源：https://github.com/dib78eatl9/tici/commit/34c70f3155b8cee9d8bb0b4642e7cc5ccafaff4e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美债收益率攀升，30 年期突破 5.19%，创近二十年高位，市场加息预期增强。
+| 来源：https://github.com/dib78eatl9/tici/commit/ede8207ebcaa8c60e5ea88bdd1410bd02c97b293?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+股份制银行 AI 信贷审批，小微企业贷款提速，不良率下降。
+| 来源：https://github.com/dib78eatl9/tici/commit/f940d3444c72e266455eb71b3fbbaae2c8843d4a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+阿里灵杰大模型平台升级，企业级 AI 开发、部署全流程打通，客户增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/fada1e84796939635950edbaa638f5cb41f9dd9b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+短视频 AI 降噪防抖优化，随手拍摄视频画质堪比专业拍摄。
+| 来源：https://github.com/dib78eatl9/tici/commit/773b82aecc59be1ef157682dbcb69ff1ab6af7cf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+海南出台 AI 扶持政策，支持 “一人公司” OPC 创新发展。
+| 来源：https://github.com/dib78eatl9/tici/commit/838312386c11c739cd6a7021f4026ee3fe2eb57d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产大模型周调用量达 7.94 万亿 Token，为美国 2.11 倍，产业落地加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/803445d9ceed6025a9bc53f42588ad338844ad82?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+水质智能监测仪普及，城乡饮用水安全实时在线监管。
+| 来源：https://github.com/dib78eatl9/tici/commit/47590e0096b156566655e93b2bf81d01c3dc6c39?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+户外用品销量大涨，露营徒步相关消费市场持续火爆。
+| 来源：https://github.com/dib78eatl9/tici/commit/b0b9ee855719b61c914ebe895a68d4e42b0e92b4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+城际智能交通调度升级，城市之间客运班车排班更加合理。
+| 来源：https://github.com/dib78eatl9/tici/commit/e7ca4385a525802ecd047cbb06249e07fdf1e985?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国资委推动央企 AI 转型，数字化、智能化改造，提升核心竞争力。
+| 来源：https://github.com/dib78eatl9/tici/commit/3cb60794ba2106b924f96a7e865b838bc8302015?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业机器人出口大增，一季度同比增 35%，海外市场拓展提速。
+| 来源：https://github.com/dib78eatl9/tici/commit/6a5817350631a069b9189418272b9d6b5e2f3592?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+戴尔 AI 服务器新品发布，液冷散热、高密度算力，数据中心采购增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/e78ae9b2b878bbd203df28a938309366ec8ae803?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内新能源装机占比超 50%，风光储协同，能源结构转型加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/aaf1bec5293ec4422e8f46148dadd10f3e315dcc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+平台经济就业吸纳能力增强，灵活就业、AI 新职业涌现。
+| 来源：https://github.com/dib78eatl9/tici/commit/ab5caa17a46922187dda88f1c59dd16fc2d05499?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+4 月全国工业企业利润同比增 8.5%，盈利结构持续改善。
+| 来源：https://github.com/dib78eatl9/tici/commit/b18fe6a56bfa2e8cc6d4223d6ea4171729bddecb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+武汉 AI + 光电子融合，光电芯片、AI 算法、智能制造协同发展。
+| 来源：https://github.com/dib78eatl9/tici/commit/5ef96dd2be87770eccc9b439cc3ba08198169a64?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+折叠屏供应链成熟，UTG 玻璃、铰链国产化，成本下降、良率提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/4ee4f7dd22c480d060e4b73b9ec8b82edfe57caa?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+财付通跨境支付 AI 风控强化，反欺诈能力提升，交易规模扩大。
+| 来源：https://github.com/dib78eatl9/tici/commit/52122841194708aee927fe55eb68e11c7ee115fe?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+瑞萨电子车载 MCU 迭代，高可靠、高安全，汽车电子核心。
+| 来源：https://github.com/dib78eatl9/tici/commit/7a247bf61801d3d9513aa3c9075b5cdf9be8abca?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心绿色化转型，液冷、光伏、储能配套，PUE 值下降。
+| 来源：https://github.com/dib78eatl9/tici/commit/56fd8148fea345c430854344e1f562adb122bfb1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+车规级芯片短缺缓解，但高端 MCU、功率半导体仍供不应求。
+| 来源：https://github.com/dib78eatl9/tici/commit/0982515680c61e72323e6a9cd721c79bbe69a630?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+花卉苗木电商销量暴涨，居家园艺消费需求持续释放。
+| 来源：https://github.com/dib78eatl9/tici/commit/083b09b0a8286e9449a715f23d4f5ea1226b081a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+外币理财热度降温，国内稳健型理财产品更受大众青睐。
+| 来源：https://github.com/dib78eatl9/tici/commit/d1886f151eb727da4d0defc140e8bde18ecfa24c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内智能手机市场复苏，国产品牌高端化、AI 化，份额集中。
+| 来源：https://github.com/dib78eatl9/tici/commit/176f21e0f79cdd9de0e48f74bc5befc32ebf5877?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+风电整机价格企稳回升，海上风电高景气，龙头订单饱满。
+| 来源：https://github.com/dib78eatl9/tici/commit/5830f9619a1ff8f6a5eb3b99cdeca8ffb34f8c80?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+储能装机量快速扩张，一季度新增同比增 80%，锂电储能主导。
+| 来源：https://github.com/dib78eatl9/tici/commit/777a8475b7473b616871320861ca867ab88c0560?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+财政部预拨 1.2 亿元救灾资金，支持南方五省强降雨抢险救灾。
+| 来源：https://github.com/dib78eatl9/tici/commit/7397d0ff47ee1ed8ae51c5c99010ba23de3cc08b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国有大行 AI 财富管理升级，高净值客户服务，资产规模扩大。
+| 来源：https://github.com/dib78eatl9/tici/commit/c70daaf8b1cbcf5d504039aa54542299999f5e02?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据安全法实施细则落地，企业数据合规投入同比增 50%。
+| 来源：https://github.com/dib78eatl9/tici/commit/0aa0d3d65caf9715fba74d4f37366ddbfc7afde9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+应急管理部推广 AI 防灾减灾，预警、救援、科普智能化。
+| 来源：https://github.com/dib78eatl9/tici/commit/50ea42084b201b605445915235cf8facdc557b28?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中创新航圆柱电池量产，适配新能源汽车、储能，订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/8384cdcf8df9c7c1b8cad77693018efb27dc8282?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+农业农村部推进 AI 农业，智慧种植、养殖、农机、农产品溯源。
+| 来源：https://github.com/dib78eatl9/tici/commit/7320322fc6643b3bcca6d7acf0a6d0d3a5e17ed8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+海外光伏需求高景气，欧洲、中东、拉美装机增长，出口拉动。
+| 来源：https://github.com/dib78eatl9/tici/commit/e18c63abb0e66c74d2072ed3a69a5b51df4456ab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+《稳岗扩容提质行动方案》发布，多举措稳就业、扩岗位、提质量。
+| 来源：https://github.com/dib78eatl9/tici/commit/a97a95d56b2dec1ddd58a590cde65d055ed562df?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+医疗便携式检测仪普及，居家快速完成多项基础体检。
+| 来源：https://github.com/dib78eatl9/tici/commit/cb8c6ce3bb1034b5cb14d6451d1a0b092d6870a1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+抖音 AI 内容生成普及，短视频文案、剪辑、特效 AI 化，创作者增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/1fbb6e6ef742baef11d54958765c8e26c57888b8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业包装材料价格下调，实体企业产品包装成本降低。
+| 来源：https://github.com/dib78eatl9/tici/commit/1cb03a39a0686fffa2826c4956b6ec351824c9ec?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+民宿行业入住率走高，短途周边游带动民宿行业盈利。
+| 来源：https://github.com/dib78eatl9/tici/commit/1d33c7085999385cf5a991c3b5c4cfd4e516e526?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+阿里云一季度营收增长，AI 算力、云计算双驱动，毛利率提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/d2ac7173e41ecaf752f113190eeab329584ffed0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+浪潮云政企市场发力，AI 服务器 + 云计算，信创领域订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/3ccd51e68ddf9b6b7d7fcc679c55f2e09e20ef97?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+城市智慧停车系统联网，全城空余车位一键快速查找。
+| 来源：https://github.com/dib78eatl9/tici/commit/24444cfdc5b79ffbf5eef0260a652dddd7525f7b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+汽修智能检测仪器普及，快速排查车辆故障精准定位问题。
+| 来源：https://github.com/dib78eatl9/tici/commit/ea7c1e17fc7233df279e135c36d1327fa5f97dc4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+比亚迪储能系统商用，刀片电池 + 液冷，大型储能电站批量交付。
+| 来源：https://github.com/dib78eatl9/tici/commit/c547ed3c59e652bed45f8fc3ab0220832f1d5368?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+Meta Quest 3 热销，AI 内容生成、性价比高，消费级 VR 份额第一。
+| 来源：https://github.com/dib78eatl9/tici/commit/f8bf31c4805d7a2d06ebce0bdeabb384a58c148a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+宁德时代海外储能基地落地，德国、美国、匈牙利，配套新能源项目。
+| 来源：https://github.com/dib78eatl9/tici/commit/0c076c777e55176822d5479c99bf55dc8bd16601?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+阳光电源储能逆变器市占率全球第一，光储协同，订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/880f7a8f26640df6cc13b383c3952d69bc998ca2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+联想 AI 工作站升级，高性能、高稳定，科研、创意设计场景放量。
+| 来源：https://github.com/dib78eatl9/tici/commit/bb2e45e0d1867d35a6e8159906867f3aca0ccf8a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中欧 AI 对话机制建立，技术标准、安全治理、伦理规范交流。
+| 来源：https://github.com/dib78eatl9/tici/commit/a98716311936ac090cee1bdbc9f2eb4f78ba46b9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智慧农业水肥一体化系统普及，农田种植产能稳步提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/6325dbbd251a6328877feaad1d0e5b3b02bc398b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+派能科技户用储能市占率国内第一，海外市场拓展加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/7e88bd43c221e191b185a412b3bc80ab446dabc9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+基金持仓 AI 分析，重仓股、行业配置、风格漂移，透明度提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/98c2a3e09534cf4b8c1383e434fe8e30de17be31?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+绿色金融政策支持，AI 评估 ESG，绿色信贷、债券规模增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/776a392dfe9681889ac9d1ed95bd760dc20c4ec8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+旷视天元大模型迭代，机器人视觉识别精度达 99.9%，工业落地提速。
+| 来源：https://github.com/dib78eatl9/tici/commit/3ae928d9100807df150c74ef7d65c7c0c633c188?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业防火墙升级换代，筑牢企业工业互联网数据安全。
+| 来源：https://github.com/dib78eatl9/tici/commit/89c30a8cd0b936f50a5117be3cb3131028dd2453?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华为智能眼镜 2 迭代，鸿蒙 AI、语音助手、健康监测，轻量化设计。
+| 来源：https://github.com/dib78eatl9/tici/commit/f781c19754294607a1dfc5e303b262db3095ecb0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+储蓄国债热销，稳健理财品类深受中老年投资者青睐。
+| 来源：https://github.com/dib78eatl9/tici/commit/e60cf9afab19f57b672b03e186c1e300b7d88b35?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智慧社区系统全面升级，物业安防便民服务实现一体化管控。
+| 来源：https://github.com/dib78eatl9/tici/commit/e247136dbd03d0f13b5187b73ffd23028a86c05c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+蔚来 NOP + 迭代，自动驾驶 + 换电协同，用户体验优化。
+| 来源：https://github.com/dib78eatl9/tici/commit/39f122bd3466b4a8920f978b5f907379d94feb41?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+饿了么 AI 配送、智能客服，降本增效，市场份额稳定。
+| 来源：https://github.com/dib78eatl9/tici/commit/ca3ea6c3b8be6af05b4b8838f9b03f0ed41228c9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+隆基绿能 HJT 电池量产，效率 26.5%，成本下降，组件出货增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/d7c6d23abef145499294012aee3025a53bb0626a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中小企业 AI 普及行动，低成本工具、云服务、培训，降本增效。
+| 来源：https://github.com/dib78eatl9/tici/commit/2bcfd69cc8b83327d9672a39c5374054269d034a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+深圳打造全球 AI 高地，政策支持、资金投入、人才集聚，创新活跃。
+| 来源：https://github.com/dib78eatl9/tici/commit/0b5fd81c0d49fe7ed9c845905d92c4f7880ac481?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+5 月 20 日国债期货小幅收涨，资金面宽松支撑债市震荡走强。
+| 来源：https://github.com/dib78eatl9/tici/commit/ede6b767b8c820fc14187911332d003351248006?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业耗材需求上涨，制造业复产带动辅料采购增量。
+| 来源：https://github.com/dib78eatl9/tici/commit/87c6e48fcf4596d76d0ea3438a1a82d35efdf4a3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+山区特色农产品出山提速，电商带货助力农户增收致富。
+| 来源：https://github.com/dib78eatl9/tici/commit/7724da5b909cc344175bcf24e31540d9b1cdb238?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+伦敦金属交易所下调铅锌单日涨跌幅限制至 12%，稳定市场波动。
+| 来源：https://github.com/dib78eatl9/tici/commit/456419c2cca8c5fcddb9769bc25d70d6c72d5b2a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+电动垂直起降飞行器研发提速，AI 自动驾驶，城市空中交通落地。
+| 来源：https://github.com/dib78eatl9/tici/commit/08f4daaff4bcb1f495ccf69c747a180a6fd657c8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+多地下调商铺经营税费，助力实体门店复苏，街边客流逐步回暖。
+| 来源：https://github.com/dib78eatl9/tici/commit/2b06bed93d895ccd6d76be05c853fbd4d48762f6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新能源汽车换电模式加速，宁德时代、比亚迪、蔚来多路线布局。
+| 来源：https://github.com/dib78eatl9/tici/commit/6588fd59f598371d059dcc6dd709ada49da1f113?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+有色金属整体偏弱，工业金属需求端恢复节奏偏缓。
+| 来源：https://github.com/dib78eatl9/tici/commit/1ee0662062d9276e58c8c58c8582d199b4752cc2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+银行推出创业低息贷款，全力扶持中小微创业主体发展。
+| 来源：https://github.com/dib78eatl9/tici/commit/1365903fba0deb800d3c9ce44b13d2bbd1067a55?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工信部深化 AI + 制造专项，支持智能网联汽车、人形机器人等领域。
+| 来源：https://github.com/dib78eatl9/tici/commit/2c9d52624491d4576ee872584a50802dfd4134a8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+开源生态繁荣，AI 大模型、工具链开源，开发者协作创新加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/5243fcf31b4287e5c8d959039bec053f9dc9c7cc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+蔚来换电站数量超 2000 座，全球最大换电网络，用户体验优化。
+| 来源：https://github.com/dib78eatl9/tici/commit/cb1cdac1ba5a4cde423eadc42bb74154525a212e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+母婴线下实体店转型体验业态，扭转线下经营低迷局面。
+| 来源：https://github.com/dib78eatl9/tici/commit/2a57fc7865743e18f295c0428599e3ec7848f0c8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AMD MI300X 芯片商用，对标 H100，性价比优势显著，云厂商采购增加。
+| 来源：https://github.com/dib78eatl9/tici/commit/50e5888f3a582f48505ee5e6380762733b8d00ce?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内区域 AI 产业集群形成，长三角、珠三角、京津冀、成渝领跑。
+| 来源：https://github.com/dib78eatl9/tici/commit/3e4e2e31aeacd71bcc240c102bc3e18991d5ad54?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+腾讯游戏出海收入占比提升，AI 本地化适配，全球市场增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/c5f4c2e6db5dbc79ca2c754ae6d96a380f653769?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能健身镜功能升级，居家专业健身课程实时同步教学。
+| 来源：https://github.com/dib78eatl9/tici/commit/59ef4807ea35afbcf7c8b79f9b82e69aed09970c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+长鑫科技更新科创板招股书，一季度净利增 1688%，拟募资近 300 亿元。
+| 来源：https://github.com/dib78eatl9/tici/commit/d2e08fd0a4999bd64e6ac4737aa8802dd2c27abc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小米小爱大模型升级，端侧推理能力增强，智能家居全场景打通。
+| 来源：https://github.com/dib78eatl9/tici/commit/557c3b3c6f779f18428fc35d1ff438d0ab58075c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产折叠平板正式面世，大屏便携兼顾，办公娱乐体验升级。
+| 来源：https://github.com/dib78eatl9/tici/commit/2df440111ec9627ceb4bc8df915704d54300e15e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+二氧化碳捕集利用技术成熟，AI 优化，碳中和目标推进。
+| 来源：https://github.com/dib78eatl9/tici/commit/a9ffca42bc277113593d1414c73106cf34887aed?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+商务部推进县域商业体系建设，农村物流、电商、供应链完善。
+| 来源：https://github.com/dib78eatl9/tici/commit/c50b56a9b1c38f59fa4a09657f6874c5d668eba4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+德业股份储能逆变器 + 电池协同，户用储能一体化解决方案落地。
+| 来源：https://github.com/dib78eatl9/tici/commit/3cac1964a538661081fb63a46b9d7899a8bc6506?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小米澎湃 S2 芯片流片成功，手机 SoC 自主可控，性能达主流水平。
+| 来源：https://github.com/dib78eatl9/tici/commit/6ca21804fedbdeb22da19561387c54e778914bc6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+央行公布首批支付牌照续展结果，支付宝、财付通获长期有效牌照。
+| 来源：https://github.com/dib78eatl9/tici/commit/753f5875ed3e42f734bcf92d49d6b1e0cce17c51?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+超薄屏下摄像技术成熟，全面屏手机视觉效果再度升级。
+| 来源：https://github.com/dib78eatl9/tici/commit/f4b1803c381cf5f2a9a18f8af4e37a21015590d2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+东方电子支付等 3 家中止审查，开联通支付不予受理，面临注销。
+| 来源：https://github.com/dib78eatl9/tici/commit/725c0ddbcef6d092e0b2442f25cf818597e751ac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+户用储能海外高景气，欧洲能源危机后渗透率提升，出口增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/76bef6b01d62b64f2e9d580f2b2dd84027a5386d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+A 股上市公司理财规模同比降 50%，资金回流主业趋势明显。
+| 来源：https://github.com/dib78eatl9/tici/commit/f4fe6f51dfc68f509dd54e3f2239bb968a53a030?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI 音乐创作工具迭代，快速生成适配各类场景原创曲目。
+| 来源：https://github.com/dib78eatl9/tici/commit/db7f3d51e1903b6fa082545a299b69ad9bf7e715?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内成品油价格小幅调整，出行及物流行业成本迎来小幅变动。
+| 来源：https://github.com/dib78eatl9/tici/commit/cb02746a35ca5fc4ed36e18f0bd3aaed56fc2671?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+直播实时 AI 字幕生成，无障碍观看各类直播视听内容。
+| 来源：https://github.com/dib78eatl9/tici/commit/12dc8661245fbf9f84bb57adc9851d60b74e7769?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+互联网大厂 AI 转型加速，搜索、电商、短视频全链路 AI 赋能。
+| 来源：https://github.com/dib78eatl9/tici/commit/2f0e46b331e2fab34b5026ca9cca26700cc65195?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+央行数字人民币钱包升级，AI 风控、智能转账，用户体验优化。
+| 来源：https://github.com/dib78eatl9/tici/commit/114583b6c5feb3fdd84abaa0a34747012d84b91a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+三星发布 Galaxy AI 2.0，实时翻译、图像编辑、智能助手全面升级。
+| 来源：https://github.com/dib78eatl9/tici/commit/ce22a4e6e2ea10f8c7f44c7ccbf5166cb00c976e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+明阳智能海上风电整机市占率国内第一，海外市场拓展加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/1e6fee78d9f12dde03bdf91e27727f5917b333db?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高校 AI 专业扩招，产学研融合，人才培养加速，缓解缺口。
+| 来源：https://github.com/dib78eatl9/tici/commit/88266b88312b33384c664bdee5493d119f7f54cf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+恒星 AI 发布影视级 Agent，文字生成高清短漫剧，1 小时完成单集制作。
+| 来源：https://github.com/dib78eatl9/tici/commit/d3b38e1595ad4c1ce8bc58343b6d93e7530afa7c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+校园智慧安防全覆盖，AI 识别快速排查校园安全隐患。
+| 来源：https://github.com/dib78eatl9/tici/commit/f31e9f46f00568e1e108456a95e1c5b368387e81?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+消费电子 / 手机 / 汽车电子（221–280）
+| 来源：https://github.com/dib78eatl9/tici/commit/f883ec1f0cfc9a1c92a08713091c465cb7ecb3f4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+百公里空芯光纤刷新量子通信容量纪录，传输效率提升、成本下降。
+| 来源：https://github.com/dib78eatl9/tici/commit/98f901811a36cf058bffa0fe0558045ea26cdf3b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+金融科技出海加速，AI 支付、风控、信贷，东南亚、拉美市场拓展。
+| 来源：https://github.com/dib78eatl9/tici/commit/32cc6caa60dac5d6afe5b030a869baef05dfc475?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+征信行业 AI 升级，信用评分、反欺诈、风控模型，精准度提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/d04c989e8eae77fbe9ecb6bf0adb3f352a58621c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+前沿科技融合创新，AI + 量子 + 生物 + 航天，跨领域突破，产业变革加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/c7b38b6985d23f84384624afdb626072d331f4e4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+灵心巧手机器人拟香港上市，万凯新材持股 4.58%。
+| 来源：https://github.com/dib78eatl9/tici/commit/882f5d15b88e46b90f7b2f0ccfd9c8fdb16947cc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+电竞外设智能联动，全套设备一键同步设置适配游戏场景。
+| 来源：https://github.com/dib78eatl9/tici/commit/3aaadc8825996cefa4a6d872347bc320203385c1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+无线投屏技术升级，多设备无缝互联投屏流畅无卡顿。
+| 来源：https://github.com/dib78eatl9/tici/commit/5c16739465cd0154cd8bfce91cc88f03d941e3d6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+光伏硅片价格企稳，N 型组件出货占比超 60%，降本增效明显。
+| 来源：https://github.com/dib78eatl9/tici/commit/e9a07c17b461c7c834af463085b61aee59d354ee?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+盛弘股份充电桩模块迭代，效率提升、成本下降，车企配套增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/50bce9ad7ed2469153caf2cf3c9fdaeaf40308be?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+谷歌 I/O 2026 发布 Gemini 3.5，AI 智能体全面嵌入搜索、Chrome 等产品。
+| 来源：https://github.com/dib78eatl9/tici/commit/e39b893a056540463ee1b429147c730a8149c441?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+权益类基金发行回暖，投资者风险偏好逐步抬升。
+| 来源：https://github.com/dib78eatl9/tici/commit/8ff41f7da075154b224550c6d1bef12fe6a22179?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+银行加大普惠小微投放，一季度普惠贷款余额同比增 23%。
+| 来源：https://github.com/dib78eatl9/tici/commit/75e240c381d811e194a071744cd3dfcff1c2dadd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+纳斯达克中国金龙指数小幅收涨，万物新生涨超 11%，中概股分化明显。
+| 来源：https://github.com/dib78eatl9/tici/commit/1a0e29fc0556d417d62608c146e0a5cc80590ba4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+央行数字货币研究所 AI 技术落地，交易风控、隐私保护强化。
+| 来源：https://github.com/dib78eatl9/tici/commit/c725b9330b92a03006c1c13f8f4fb4f9eb4d9fe0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+互联网金融合规发展，AI 风控、智能投顾、普惠金融，服务小微企业。
+| 来源：https://github.com/dib78eatl9/tici/commit/0e88ce047b06ff4793803f7ae9d5c9b98c57abab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+财富管理 AI 个性化，风险偏好、生命周期、目标收益，定制方案。
+| 来源：https://github.com/dib78eatl9/tici/commit/ccd5f36f60dd67712f6e81afee4ca4da3940472a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+虚拟数字人商业化加速，AI 驱动、实时交互，直播、客服、营销应用。
+| 来源：https://github.com/dib78eatl9/tici/commit/c82d29a550c3cf35c5cf1becd649f27b427cc10a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+小米 15 系列发布，澎湃芯片、AI 大模型、影像升级，性价比突出。
+| 来源：https://github.com/dib78eatl9/tici/commit/a5a0340c37bd7580b8ae98a224e1af57ea56d2e6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华夏基金 AI 投顾服务上线，智能资产配置，适配不同风险偏好。
+| 来源：https://github.com/dib78eatl9/tici/commit/4241474939cf2f6a303559ddb82da452809cf21b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+本源量子悟源二号量子计算机升级，算力提升、错误率下降。
+| 来源：https://github.com/dib78eatl9/tici/commit/192b74023d771b314536f84c326d3745215639aa?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+生猪价格小幅回升，养殖企业亏损收窄，养殖端补栏意愿增强。
+| 来源：https://github.com/dib78eatl9/tici/commit/3efa92293dde1bcda64d4b522711cdc8895eb976?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新能源技术多元突破，氢能、核能、地热能、潮汐能，能源结构优化。
+| 来源：https://github.com/dib78eatl9/tici/commit/12846f65bd78c5e330e6377b151124f65961c8d7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+百度智能云文心一言赋能，政企 AI 解决方案，订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/c06cc3885ac37bee2755902c9d4860322d286de2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+欧盟拟加征部分中国电动车关税，商务部回应将坚决维护企业权益。
+| 来源：https://github.com/dib78eatl9/tici/commit/05cd0be9ca48029bcd3159deae86e90d60db6701?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+比亚迪海外建厂提速，泰国、巴西、欧洲布局，本地化生产降成本。
+| 来源：https://github.com/dib78eatl9/tici/commit/977ac014af9c5c798fc3f358d696e4f22ccb683c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能仓储机器人普及，电商仓库分拣效率大幅提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/a5d63618d3d9d7c9a7ea78d51aee982b7615829f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+氢能产业政策密集出台，燃料电池、电解水制氢技术突破。
+| 来源：https://github.com/dib78eatl9/tici/commit/7fdb5d3cb4bca990afb5cd014e6497120a5326d0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国际白银价格走强，突破 79 美元 / 盎司，工业与避险需求共振。
+| 来源：https://github.com/dib78eatl9/tici/commit/36b5279d6fb08500ad352ce198be1f526dfc4d0f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+沐曦 MX1 芯片流片成功，对标 H100，国产高端 AI 芯片突破。
+| 来源：https://github.com/dib78eatl9/tici/commit/9ee3f03ec8c8b71095de47b384f1df4fe19cf3dd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+港股科技股反弹，腾讯、阿里、美团领涨，AI 转型预期升温。
+| 来源：https://github.com/dib78eatl9/tici/commit/c67c9c30b45f78fc926645fd9c2ffbfa5f1450fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内云计算市场高景气，AI 算力需求爆发，IaaS/PaaS 增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/6b0d1195c635ba74fc3a60217195858efd109cca?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+字节火山方舟平台商用，大模型训练、推理一体化，成本降低 30%。
+| 来源：https://github.com/dib78eatl9/tici/commit/b590792f1d925acb4d914ca98d33d06878544091?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+谷歌联合三星发布 AI 眼镜，Gemini 智能体、实时翻译，Gentle Monster 设计。
+| 来源：https://github.com/dib78eatl9/tici/commit/81f27c79a6172d3486d5a4836ce12f2f51709ff8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+北方华创沉积设备迭代，国产替代加速，先进制程设备放量。
+| 来源：https://github.com/dib78eatl9/tici/commit/ba21c669aee1190fabe82cb91985e354f7f168da?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工信部启动 “AI + 制造” 专项，下半年落地 30 个国家级示范项目。
+| 来源：https://github.com/dib78eatl9/tici/commit/15c75b2114744bac0d6bb3da532abb1c196bef8b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国能日新虚拟电厂平台落地，聚合分布式资源，电网调度参与度提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/35a534efaff5bb9559f59a3c568854efd645c70d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+互联网行业人才结构调整，AI、算法、大模型人才需求激增。
+| 来源：https://github.com/dib78eatl9/tici/commit/4e5d956f371f398b39cb9dd9dbd75ec3b6c36eb6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+工业视觉检测设备量产，替代人工完成高精度产品质检。
+| 来源：https://github.com/dib78eatl9/tici/commit/8d25fa8f9da8f31e7936a3088f5da5bd1dc3fd44?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+天融信 AI 安全运营平台升级，自动化处置能力增强，运营成本下降。
+| 来源：https://github.com/dib78eatl9/tici/commit/10571939b38a91f2827365d1cd3af877c352b486?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+VR/AR 设备出货量增长，苹果 Vision Pro、Meta Quest 3 领跑，AI 内容生成赋能
+| 来源：https://github.com/dib78eatl9/tici/commit/711825e098bfeea1c11b115605126d5b50548aec?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+普惠金融 AI 赋能，小微企业、三农融资便捷，覆盖面扩大。
+| 来源：https://github.com/dib78eatl9/tici/commit/273b0e626241f825875557b3236803a98220386c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+特种机器人应用拓展，消防、安防、勘探、救灾，危险场景替代人力。
+| 来源：https://github.com/dib78eatl9/tici/commit/1ef8b9115e31aa46cf09d23cbd7a7d793792da3d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+用友 YonSuite AI 版发布，财务、人力、供应链智能决策，企业降本增效。
+| 来源：https://github.com/dib78eatl9/tici/commit/0a1daf5c35568f0f0d749a99ea632acaeb547535?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+TWS 耳机出货量稳定，AI 降噪、空间音频升级，高端市场增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/5df080d2e19be458bea9bb3719a781464aa7d0fd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+车载智能香氛系统量产，自动调节车内气味营造舒适出行环境。
+| 来源：https://github.com/dib78eatl9/tici/commit/bd9c8f7fbb75340d873199a6a240f68690b9b8cd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+金山云 AI + 游戏云协同，算力租赁、云游戏，营收改善。
+| 来源：https://github.com/dib78eatl9/tici/commit/290c222878d3af316761081db37fbbe5cc46f0f0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+保险资金加大权益配置，二季度重点布局高股息与成长板块。
+| 来源：https://github.com/dib78eatl9/tici/commit/5b716ab125a3cd744dcbdc33cb6430dfb4c4a8f4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能垃圾分类设备投放，社区垃圾分类推行更加顺畅。
+| 来源：https://github.com/dib78eatl9/tici/commit/0c04ca0b6f5cfeac4e1ee8b7a4ad6c26e14f4a8e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+内陆口岸贸易提速，内陆外贸城市进出口总额稳步增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/337c58f5f26c350d457e163cac1c2ca04577b197?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+消费金融公司 AI 风控，线上审批、秒级放款，普惠金融覆盖扩大。
+| 来源：https://github.com/dib78eatl9/tici/commit/9cb8fbd78cbd0d1387f72aefb99f371bf3618d2a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+社区团购优化供应链，生鲜菜品品质与性价比同步提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/a95d336b6e42d819fefa16ca13db7047861642ed?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+地平线征程 6 芯片发布，自动驾驶感知能力提升，成本下降 20%。
+| 来源：https://github.com/dib78eatl9/tici/commit/28082d0e7fc4a9f5bf324c52496ec1422317930d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+医用便携理疗仪器普及，居家即可完成基础康复理疗护理。
+| 来源：https://github.com/dib78eatl9/tici/commit/a18cc8a02f84df6ba05b5087c2727c1366008377?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数字人民币试点扩大，线上线下场景融合，支付便捷性提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/e425538b6d9b75faf94c7709079179d7174ef9ee?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+加密货币 AI 量化交易活跃，波动率下降，机构资金入场增加。
+| 来源：https://github.com/dib78eatl9/tici/commit/98fe49ffe7e2642b99e78bd8b07d6a91b20da431?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+字节跳动虚拟人直播工具普及，低成本、高互动，中小商家使用增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/2cb82565b55abd7ea4f20ddb276f72350201cb8f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+少儿素质教育稳步复苏，艺术体能类培训报名人数增多。
+| 来源：https://github.com/dib78eatl9/tici/commit/92296f2239df96721f261abe5230c50dcd38d975?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+可控核聚变研究突破，EAST 装置长脉冲高约束模式运行创纪录。
+| 来源：https://github.com/dib78eatl9/tici/commit/5f46ba80d89fb7845a6d1de88bf055645a36a72b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+OPPO Find N3 折叠屏热销，小折叠 + AI，女性用户群体扩大。
+| 来源：https://github.com/dib78eatl9/tici/commit/05f0cb9af89c81e92ea1f180ea816182642c1ecf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+上海目标 2025 年末 10 万台人形机器人进工厂，智能制造提速。
+| 来源：https://github.com/dib78eatl9/tici/commit/1d49196c8094cc4d46a7a81c5b8cc56792153a74?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+港口吞吐量稳步攀升，内外贸货物流通效率持续提高。
+| 来源：https://github.com/dib78eatl9/tici/commit/4832f7384453837c881d347b900404cd517e1ae8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+开源虚拟数字人框架上线，低成本打造专属虚拟形象。
+| 来源：https://github.com/dib78eatl9/tici/commit/66f01a3e5836d68c62b6de5db2234a22bf954c21?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能电网改造提速，虚拟电厂接入规模超 5000 万千瓦。
+| 来源：https://github.com/dib78eatl9/tici/commit/731d37dc69af537c19aaa7443e0c5efb94280fa5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+华阳集团车载显示屏 + AI 座舱协同，订单增长，毛利率提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/ea56f5a73f049c66495f6c1e54cd393b204cc88b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+跨境智能翻译终端升级，多语种实时互译适配出行商务场景。
+| 来源：https://github.com/dib78eatl9/tici/commit/94300862ad56711409a505d3415fd741b173fb4a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+碳酸锂价格震荡调整，新能源上游原材料价格趋于平稳。
+| 来源：https://github.com/dib78eatl9/tici/commit/0f85b62d2cad97455f1049376c5ed9b7e578e83f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+极地智能科考设备升级，极端环境下科研探测更加稳定可靠。
+| 来源：https://github.com/dib78eatl9/tici/commit/0a0d12d34e8a873ac4967cb463751b009fc5926d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+城市智能灭蚊系统布局，公共场所智能消杀蚊虫优化环境。
+| 来源：https://github.com/dib78eatl9/tici/commit/42fc6021bb360695ed1091c62637536d62d8e3be?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+外汇市场 AI 交易，汇率预测、套利策略、风险对冲，机构应用增加。
+| 来源：https://github.com/dib78eatl9/tici/commit/7cd186dc7cf5977a855d225500f62f81c3635941?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+3D 打印产业化加速，金属、陶瓷、生物材料，航空医疗汽车应用。
+| 来源：https://github.com/dib78eatl9/tici/commit/220f77a6fe3f47a1e720b369297430d5cc30c214?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+云迹科技获全球首个千台级亲子场景智能体订单，商业化加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/75b7632d63f36774a1b88710f646152ec269e882?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+户外露营装备销量持续走高，户外休闲消费市场持续升温。
+| 来源：https://github.com/dib78eatl9/tici/commit/95ae53a9b8c72af978a4ad58f30aea21ccbc0a9c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+东方电气风电整机迭代，海上 + 陆上双驱动，国企订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/7c8ed161da76d2a0b85047f4c1272ca2acc5d527?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中科创达车载操作系统 + AI 大模型，高通 / 英伟达适配，车企订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/447e51fd3acaac46e70c6e18d204cac2de2c408c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能车窗防雾技术量产，出行驾车视野安全得到保障。
+| 来源：https://github.com/dib78eatl9/tici/commit/cf221f7080a638926cecc83e477204a768f914f4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+券商研报 AI 生成普及，数据整合、观点提炼，发布效率提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/9ede4ec9644c4e1fa3400282dc7582308f40170d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+电池片、组件价格回升，N 型组件溢价明显，厂商毛利率修复。
+| 来源：https://github.com/dib78eatl9/tici/commit/bc8e00e5306996e093cada5577839765c6df8d71?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美股科技股分化，英伟达四连阳创新高，美联储加息预期压制成长股。
+| 来源：https://github.com/dib78eatl9/tici/commit/7914a3e5b173213ca9bc6d66a6640376c68cbb60?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国内风电大基地项目加速落地，风光互补，新能源装机占比提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/f06fb39dab80884f5d70b43351b0334a7aaaed6e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+联通智网 5G 模组芯片适配，工业互联网、车联网渗透率提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/b1e69b5331805ad385bba7bb8fc7a461f7333f1e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+网易数帆 AI 平台发布，数据治理 + AI 建模融合，企业数字化提速。
+| 来源：https://github.com/dib78eatl9/tici/commit/94e938cac46a5ef7901dea896043c4599ea38fe1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中芯国际 N+2 工艺突破，国产 AI 芯片代工能力增强，自主可控提速。
+| 来源：https://github.com/dib78eatl9/tici/commit/c6516ef1b5f4e342cb520498f56414ffaca18834?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产 28nm 光刻机实现量产交付，成熟制程自主可控突破。
+| 来源：https://github.com/dib78eatl9/tici/commit/df74b82877a7d35b14f7caa57a58e777b15fdbef?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+云端算力共享平台上线，中小企业低成本租用高端算力。
+| 来源：https://github.com/dib78eatl9/tici/commit/1631d364f672d12011a1a8c43da259f28ca71f54?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+快充电池技术迭代，主流手机二十分钟即可满电续航。
+| 来源：https://github.com/dib78eatl9/tici/commit/e47f95b00578019a3136308fac824f01f5cc8588?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中国人寿 AI 风控升级，欺诈识别能力增强，赔付率优化。
+| 来源：https://github.com/dib78eatl9/tici/commit/2389e1ff38008f3e68e3d7f307b8dd58d5248a37?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+支付宝跨境 AI 支付拓展，东南亚、欧洲市场，中小商家接入增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/54e24876d27e640773567816b356e2c83b9861dc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+写字楼空置率逐步下降，中小企业办公租赁需求回升。
+| 来源：https://github.com/dib78eatl9/tici/commit/0aa08c8d396153dc8e6df304da6b338991682463?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+合成生物学突破，AI 设计基因、细胞、酶，医药、化工、农业变革。
+| 来源：https://github.com/dib78eatl9/tici/commit/69cde2625acf1ee48cd79749b3b35625c10c9d26?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+家用智能扫地机器人升级，全屋自动清扫避障能力更强。
+| 来源：https://github.com/dib78eatl9/tici/commit/171d18f1fddd1c41a1aaf2ecda0146f0323340fc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+龙芯 AI 加速模块发布，适配国产 CPU，构建自主 AI 算力生态。
+| 来源：https://github.com/dib78eatl9/tici/commit/28994d3f33bdc6e36d217d4f71abdab4ca77504b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能鱼饵监测设备问世，实时监测鱼情提升休闲垂钓体验。
+| 来源：https://github.com/dib78eatl9/tici/commit/bec6f800faf3d6b8f7936db324d4ff89a0419169?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+锦浪科技组串式逆变器市占率全球第二，海外市场拓展加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/395e84234bf97937743e24e225f3fdb8cee37ca6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+2026 福布斯中国 AI 科技企业 TOP50 发布，中关村科金入选。
+| 来源：https://github.com/dib78eatl9/tici/commit/28f569b39b9b3edafc3aaae5d541ad97c05e49e8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美国 API 原油库存大降 911 万桶，远超预期，油价短期获支撑。
+| 来源：https://github.com/dib78eatl9/tici/commit/10c1d75b9836b0829237bde8ceede9c25a70ce78?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+氢能储运技术突破，液氢运输成本下降，商业化应用临近。
+| 来源：https://github.com/dib78eatl9/tici/commit/07fc4b0ac04b357edc75402220b1f349a823a0fc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+网易云音乐 AI 推荐、歌单生成、翻唱，用户活跃度提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/cd32fb74045c020c422373944ec752559d460da3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+中兴微 5G 基带芯片商用，通信 + AI 融合，工业、车载场景拓展。
+| 来源：https://github.com/dib78eatl9/tici/commit/304c83de28790e1af14614e4623848cb7ae9916e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+虚拟直播间搭建门槛降低，实体商家轻松开启线上直播带货。
+| 来源：https://github.com/dib78eatl9/tici/commit/2d5b1aa54dcb6e7a2304bf63568224b2dd7b98ed?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+桥梁智能监测系统投用，实时监测桥梁安全消除通行隐患。
+| 来源：https://github.com/dib78eatl9/tici/commit/76519dd7e8f6a8a9b20e6101e7028166449cb917?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美团 AI 调度、骑手优化、商家赋能，效率提升，佣金增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/4fd4cfea05677d7dbe67b70b9428292377f1d125?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+景嘉微 AI 芯片流片成功，图形处理 + AI 融合，军工、信创场景落地。
+| 来源：https://github.com/dib78eatl9/tici/commit/918be79679f05fcce3e11e760b0bad4bcb36fc8d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+OPPO 马里亚纳芯片迭代，影像 + AI 融合，高端手机差异化优势强化。
+| 来源：https://github.com/dib78eatl9/tici/commit/f65591e63ffa2bc2d72546051f437f01634f4458?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产大模型加速落地金融、政务，私有化部署市场份额提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/80b4761ae55f773263a2d004bb41ba4b3607970d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新型电力系统建设提速，特高压、储能、虚拟电厂协同发展。
+| 来源：https://github.com/dib78eatl9/tici/commit/06f6f06b1a5becd62c9ffc3d3795122a3cf87651?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+新加坡加码 AI 金融，英伟达设研发中心，金融科技生态完善。36氪
+| 来源：https://github.com/dib78eatl9/tici/commit/a082b32fc098485b73224d11f6f9004928005fcd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+沐曦 MX1 芯片流片成功，对标国际高端 AI 芯片，国产替代加速。
+| 来源：https://github.com/dib78eatl9/tici/commit/c4aac95a00bf2106827a832666a90c4a6513ac78?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AMD MI300X 芯片商用，1530 亿晶体管、192GB 显存，性价比超 H100。
+| 来源：https://github.com/dib78eatl9/tici/commit/6bfb2933ae1da7788552c7f641079ef0554880fe?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+图文转三维模型技术成熟，设计行业建模效率大幅提升。
+| 来源：https://github.com/dib78eatl9/tici/commit/348fb6fbcf044a63ab07d5c338976bbfef6d8987?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+壁仞科技 BR100 大算力芯片交付，AI 训练、科学计算场景落地。
+| 来源：https://github.com/dib78eatl9/tici/commit/0e6e20341ff6fa96a146248a8de600d39d1192b0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+黄仁勋：AI 企业部署最大瓶颈是存储，需求增速远超供给。
+| 来源：https://github.com/dib78eatl9/tici/commit/a5e935b51a48d9e947522ba60e87394f141bb995?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美联储加息预期升温，10 年期美债收益率升至 4.677%，创 1 年半新高。
+| 来源：https://github.com/dib78eatl9/tici/commit/c81198a1919ce1423011a6beadff582e6d6f6f12?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+长电科技 AI 芯片封装技术升级，良率提升、性能优化，订单增长。
+| 来源：https://github.com/dib78eatl9/tici/commit/eb214295b843ea4c50c5411718188d0a5a427bc5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片算力突破，多场景训练平台正式投入应用
+| 来源：https://github.com/dib78eatl9/tici/commit/2f722e8006c87d26abca264b2dc026972f0604f2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求激增，行业供应链迎来新一轮扩产周期
+| 来源：https://github.com/dib78eatl9/tici/commit/eb577576fafdbae51f9809ff9c3aceae5d8507ae?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+英伟达高层：未来AI竞争核心，将从算力转向存储效率
+| 来源：https://github.com/dib78eatl9/tici/commit/a9b069ee3151d92f33859d1b5258b1ab943ba2df?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心扩建加速，高带宽存储成为行业焦点
+| 来源：https://github.com/dib78eatl9/tici/commit/f738fdf64a9461a5bfeb3eaf46ad180dc66af5d9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美债收益率持续攀升，全球科技板块承压明显
+| 来源：https://github.com/dib78eatl9/tici/commit/3ca83fd575849f7b39392ac42aa26e34ce102885?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+美联储政策预期变化，资金流向重新影响科技市场
+| 来源：https://github.com/dib78eatl9/tici/commit/948736aeccb71fd05dceacf7426697d0479038a4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片封装技术持续升级，先进制程带动行业增长
+| 来源：https://github.com/dib78eatl9/tici/commit/e46203dcbcab714ab39119e1782abe216f86c8c0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装企业扩产提速，高性能芯片订单增加
+| 来源：https://github.com/dib78eatl9/tici/commit/75c307d2798da1d12e741e6e914783b65c831229?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+人工智能训练需求爆发，液冷服务器市场快速升温
+| 来源：https://github.com/dib78eatl9/tici/commit/1d97ff62c28c14f53c478d9cf118b8ce0d864781?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI大模型推动高端GPU需求增长，供应链景气度提升
+| 来源：https://github.com/dib78eatl9/tici/commit/5ab35df23dd1e95062e480b09dee39c3979056ab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球半导体行业回暖，高性能计算市场热度上升
+| 来源：https://github.com/dib78eatl9/tici/commit/1e671a208a9c31588828dc52eeb1a3f67013f7f5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+边缘AI设备需求扩大，国产算力芯片迎来新机遇
+| 来源：https://github.com/dib78eatl9/tici/commit/4286a0531c9f58e4e8cd804da717217309285243?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力基础设施持续建设，数据中心投资规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/ce2a8cb5c68f5ffad4fa3f3406224e3207e1ee71?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储价格上涨，AI训练成本结构正在变化
+| 来源：https://github.com/dib78eatl9/tici/commit/91ba8c875696ae8522ed8b42e55e1bc6a347f015?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体封装技术进入新阶段，Chiplet方案热度提升
+| 来源：https://github.com/dib78eatl9/tici/commit/6943e9f5477d643cc1724dee384a74d4fae0b688?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场增长迅速，企业级算力部署需求增加
+| 来源：https://github.com/dib78eatl9/tici/commit/4540f15dfe9b34d21a5b7501ac4173bce3578405?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商持续推进生态建设，多行业开始适配应用
+| 来源：https://github.com/dib78eatl9/tici/commit/d81a999d39dbfe79bff017bae3dee952dba602ac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+海外资本关注AI硬件赛道，高端芯片产业链热度攀升
+| 来源：https://github.com/dib78eatl9/tici/commit/3f5bef9a99db7d5662f9c21909bb739fb910be4e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+先进封装与HBM需求同步增长，产业链企业加速布局
+| 来源：https://github.com/dib78eatl9/tici/commit/51e7ce7348d07786a2dbc5fccbb7bd36c9b415df?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI产业链进入规模化阶段，服务器与芯片需求齐增
+| 来源：https://github.com/dib78eatl9/tici/commit/8aadd6d543b66e7353cf0cae09fed960c9cdd1bb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型训练规模持续扩大，企业开始重视算力成本优化
+| 来源：https://github.com/dib78eatl9/tici/commit/66ffc725ae5545fa042e8efcb4a351e9664ca50b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片市场迎来反弹，AI需求成为核心驱动力
+| 来源：https://github.com/dib78eatl9/tici/commit/9fed0e4323743e0ec3151fafdcac28378c18f91d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片良率提升明显，高端封装技术进入加速落地期
+| 来源：https://github.com/dib78eatl9/tici/commit/0744ec45a612e31b49311951f26369b4b2f3784f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技企业加码AI基础设施，算力投资持续增长
+| 来源：https://github.com/dib78eatl9/tici/commit/877ecab1f31e33502e40722dd6300ace9b04563c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算需求升温，国产半导体产业链迎来窗口期
+| 来源：https://github.com/dib78eatl9/tici/commit/5d883437325d708c6ced8c01d8c214d015ac7326?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力需求持续攀升，高性能芯片市场热度不减
+| 来源：https://github.com/dib78eatl9/tici/commit/df7d1454223b4e94b6b9eedfcb31eea1bf992110?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU加速突破，多行业开始布局智能计算平台
+| 来源：https://github.com/dib78eatl9/tici/commit/49e46b8cdb302bd4171973b614824aaf8501ed49?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心扩建潮开启，液冷技术需求快速增长
+| 来源：https://github.com/dib78eatl9/tici/commit/4234cdb25ad4105dcfd6450353e7de8fbf098070?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模扩大，存储带宽成为核心竞争点
+| 来源：https://github.com/dib78eatl9/tici/commit/f2bb842dcbbce4b696a63c74cd5e9ffd034629ba?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装升级，产业链企业订单明显增加
+| 来源：https://github.com/dib78eatl9/tici/commit/3c80c4268594ac7696cf9a568c1b94058657b05f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI服务器市场增长，高端硬件需求持续释放
+| 来源：https://github.com/dib78eatl9/tici/commit/8bca1b4c59f4759a7dc00977fe2ca682f10f89db?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片生态完善，企业级应用场景不断增加
+| 来源：https://github.com/dib78eatl9/tici/commit/a928b21b72ccd8f4b317025470fa9170b62c303e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算市场升温，科技企业加速基础设施建设
+| 来源：https://github.com/dib78eatl9/tici/commit/2e7268c4ae610f123615ee01b16b16732e3fe7a5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型参数规模扩大，算力与存储需求同步增长
+| 来源：https://github.com/dib78eatl9/tici/commit/40cd8b8d9dcb714606d417ca5254cadfdea6c140?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装技术迭代提速，良率优化带动产能提升
+| 来源：https://github.com/dib78eatl9/tici/commit/24a080d42b0525afa2db509e17ebeabb95171bae?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技巨头加码AI投资，数据中心建设进入新阶段
+| 来源：https://github.com/dib78eatl9/tici/commit/45a65741245e0f5f43d510e016620a5ee7521426?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求爆发，边缘计算市场迎来发展机会
+| 来源：https://github.com/dib78eatl9/tici/commit/003d22a2614175be2d5830034edc5fe67128b7e2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储热度攀升，行业供需关系持续紧张
+| 来源：https://github.com/dib78eatl9/tici/commit/4fda2da741ecc91665193c5ec8aaa2758f5dd018?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力平台升级，AI训练效率进一步提升
+| 来源：https://github.com/dib78eatl9/tici/commit/f651605efeaf274bb0141cc5b1b1a6e13c8b1c9e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业景气回暖，先进制程需求不断增加
+| 来源：https://github.com/dib78eatl9/tici/commit/148fb1ace98fb165bfd43a5c07ed55750f30a636?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球资本聚焦AI硬件，芯片产业链持续受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/eae6d513736147ac0eafa9f609febdc63dcaa11b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器订单增长，高性能GPU市场供给偏紧
+| 来源：https://github.com/dib78eatl9/tici/commit/e878603db57da06d521e4855b26294d3954628c5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型快速发展，企业加速部署智能计算系统
+| 来源：https://github.com/dib78eatl9/tici/commit/ca2443f55657f0f260584a31f96b548761d7e8fd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科学计算需求增加，高端芯片市场持续扩容
+| 来源：https://github.com/dib78eatl9/tici/commit/38835d96e417d314aecb03a9e38a470fb8080b93?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装技术突破，AI芯片性能进一步优化
+| 来源：https://github.com/dib78eatl9/tici/commit/f58f568f3d02ea94b6f3d9efffc8e28ab8ed2879?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI应用规模扩大，云计算企业持续加码投资
+| 来源：https://github.com/dib78eatl9/tici/commit/1665091d7191544af50d5a3c240ac07ff63edd15?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能算力中心建设提速，多地布局AI产业基地
+| 来源：https://github.com/dib78eatl9/tici/commit/7738a568fc21a9d6b8f7e9a78a6023e5445230b2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储需求提升，HBM市场关注度升温
+| 来源：https://github.com/dib78eatl9/tici/commit/86a2b201c29045c69a6b5405e8abc09bb99a5e74?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入高速发展期，算力基础设施成重点
+| 来源：https://github.com/dib78eatl9/tici/commit/48b9a604b8276ad549959bff90387a2dd4c653dd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片制造与封装协同升级，行业竞争进一步加剧
+| 来源：https://github.com/dib78eatl9/tici/commit/b488a1ef395555182496e2f33d15fc224ddbc810?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片市场扩张，边缘设备需求不断增加
+| 来源：https://github.com/dib78eatl9/tici/commit/508c298b0b3acce9a6965686b9d1f9ada7957787?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技市场关注AI，相关产业链热度提升
+| 来源：https://github.com/dib78eatl9/tici/commit/582631e8fe0d3a6aee91b8ea7bdd678ab0ad26e2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商持续发力，生态适配逐步完善
+| 来源：https://github.com/dib78eatl9/tici/commit/21a4e0dd44c2ced137fca277a64ebc74254532b2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练成本上涨，企业开始优化资源配置方案
+| 来源：https://github.com/dib78eatl9/tici/commit/71ec6a619dcbb9a2c12afb80d78e7a9d3d99d945?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业迎来新周期，高性能芯片需求增长
+| 来源：https://github.com/dib78eatl9/tici/commit/c98f8a0d25026002223d71f01d2bff471c5c34b4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI产业链加速整合，先进封装技术成为关键
+| 来源：https://github.com/dib78eatl9/tici/commit/3a97c2df39282f6fae28721263c5af6c8d9968e2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心能耗问题受关注，绿色算力成为趋势
+| 来源：https://github.com/dib78eatl9/tici/commit/fcac8d81ebd229c5a95992fcb79cd285ec1046a4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+人工智能应用落地提速，企业级市场快速扩张
+| 来源：https://github.com/dib78eatl9/tici/commit/c2a7e1caa9f4e5a6bcff7d803fb2e2795b1e2777?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI竞争升级，高端算力设备需求旺盛
+| 来源：https://github.com/dib78eatl9/tici/commit/d890a680318b96b23a75118c67089b2d34a32dad?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片技术持续突破，多领域实现规模化应用
+| 来源：https://github.com/dib78eatl9/tici/commit/11499b73415036131a48db65e37e8a6e62b6dc69?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格回暖，AI需求推动行业增长
+| 来源：https://github.com/dib78eatl9/tici/commit/399329f66e439f1a938dc3f97b5bae292fa822ac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场保持高景气，订单量持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/67ec5078212d369a3f6f4900bf84b72d1db2d6a3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能制造与AI融合，工业计算需求明显提升
+| 来源：https://github.com/dib78eatl9/tici/commit/ce7e9b7c2413987b9ac47db145003347b79bb9fc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型训练持续升级，企业关注算力效率优化
+| 来源：https://github.com/dib78eatl9/tici/commit/a31cb9a09728b9aff88d52eb3c03e8f54b58b7eb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产高性能GPU发布，行业应用生态进一步扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/5066d49c04e5dff491815ba76e6cb673e174d46e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业加快AI布局，智能硬件市场持续升温
+| 来源：https://github.com/dib78eatl9/tici/commit/6d9df17b836bf59f1784c58bd6b43fd6d3916a24?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高端芯片供应趋紧，先进封装产能需求增长
+| 来源：https://github.com/dib78eatl9/tici/commit/44d73c31634f049e3f275c9cd3e9042c89ad6c8a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI计算需求暴增，数据中心投资规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/d9070a63632c599151fe1422a20971b94cc6ea30?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体设备市场回暖，产业链订单逐步恢复
+| 来源：https://github.com/dib78eatl9/tici/commit/6402d36774e4bdec3da8bfeb6e891f1d4c8eac32?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI应用推动云服务升级，企业加速数字化转型
+| 来源：https://github.com/dib78eatl9/tici/commit/60831c3460d4a5f996d391590577fa877273f05b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片加速落地，行业竞争进入新阶段
+| 来源：https://github.com/dib78eatl9/tici/commit/4499bbf1cf84ecc9cede1ba7f1f2768c0665ab0a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储市场扩张，AI训练需求持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/1373b0a5cec2d63fdf9f32446616e39aaa074cb9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能计算平台升级，企业算力部署规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/00d132849d11067eb77695df5527bbc09fcf5643?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入规模化阶段，硬件需求持续增长
+| 来源：https://github.com/dib78eatl9/tici/commit/24ad811c3ca7205172e721b3581384577665873c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装良率优化，高性能产品产能逐步释放
+| 来源：https://github.com/dib78eatl9/tici/commit/a859b999b21e9f8e33132ae8bee9cabc30f5f3a8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型迭代提速，企业加码高端算力采购
+| 来源：https://github.com/dib78eatl9/tici/commit/6184f4e8d4aaa0a32ffe1de007bd8462ffd7c044?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设加快，服务器产业链热度提升
+| 来源：https://github.com/dib78eatl9/tici/commit/d88981a691c12b94e538544121a4d565425f8a24?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力生态逐步成熟，行业应用场景增加
+| 来源：https://github.com/dib78eatl9/tici/commit/835b552adbb44deeaf7bacb0bf0055918808ede5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练需求快速增长，GPU市场供需持续紧张
+| 来源：https://github.com/dib78eatl9/tici/commit/f40aa820266b719dac65f2683ce8bc80e49722f3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技行业资本活跃，AI硬件赛道持续受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/133674adfbd5097807c9dfd0453094f64cb0deab?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理场景扩大，边缘计算设备需求上升
+| 来源：https://github.com/dib78eatl9/tici/commit/103c33daf2c5942ff31e839427a5c2c59d84cc25?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球半导体市场回暖，高性能计算持续升温
+| 来源：https://github.com/dib78eatl9/tici/commit/87c17810a66871ccc0935751e443bf7375e8b753?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储与算力协同发展，AI基础设施加速升级
+| 来源：https://github.com/dib78eatl9/tici/commit/4115f8c0852b0b98c505213b66d738ac52e963b9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进制程突破，AI芯片性能持续优化
+| 来源：https://github.com/dib78eatl9/tici/commit/98403df3f19a89816cba878404cf7944864e23b5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场竞争加剧，企业加速新品发布
+| 来源：https://github.com/dib78eatl9/tici/commit/a3c41011c72ccdd4f7c74df3f9f683ee69bbcf1f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+大模型训练推动产业升级，算力需求不断攀升
+| 来源：https://github.com/dib78eatl9/tici/commit/1ac90ff0eacbef6976b97c5aa5907a48449992fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片产业链扩产，先进封装市场热度提高
+| 来源：https://github.com/dib78eatl9/tici/commit/f06924804ae00f67d5ee726cff5d64b2917f112d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能计算需求增长，高性能存储成行业焦点
+| 来源：https://github.com/dib78eatl9/tici/commit/ca3ef8e8a0a0f4bfa993d3f76dd8c17e71ce5ee6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业布局AI云服务，数据中心规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/ae9de0256d2003ba44ff961b9631f1e95adeeefd?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU市场升温，行业生态逐步完善
+| 来源：https://github.com/dib78eatl9/tici/commit/d6447bb43a6f740c5ed6a6f300d77c3873bdc720?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力平台升级，训练效率持续提高
+| 来源：https://github.com/dib78eatl9/tici/commit/ed5217a8c0f9e68977d00063f509b72c23ddb926?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链恢复增长，高端芯片需求增加
+| 来源：https://github.com/dib78eatl9/tici/commit/462f5bbca60741a707a0ebaed45621254a7df296?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理应用扩张，边缘智能设备快速发展
+| 来源：https://github.com/dib78eatl9/tici/commit/a5b93d4deafa104d21614bc3907dcd97181fc3a1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技市场聚焦AI，算力建设持续推进
+| 来源：https://github.com/dib78eatl9/tici/commit/ed7dfc19431778a220887e3d75765d138a036e9b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算市场扩容，产业链企业订单增长
+| 来源：https://github.com/dib78eatl9/tici/commit/9b6e6f95e9339b106ae889f4a1d1f92c0d2e62e4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求爆发，液冷系统市场热度上升
+| 来源：https://github.com/dib78eatl9/tici/commit/c38d7de524139b61e3fea1a79b7982add8086077?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片厂商持续发力，行业应用场景扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/1b99cddee8f3219e7e2648223f17f850b9222dac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模持续扩大，存储瓶颈问题受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/77f12ac8dbcce5008a503a888212c967b1ed02e1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装技术创新，先进工艺推动性能提升
+| 来源：https://github.com/dib78eatl9/tici/commit/abafc97e602007741d1ca533edeb817a0e2bf2cb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业加速布局AI，智能硬件市场活跃
+| 来源：https://github.com/dib78eatl9/tici/commit/1edf0950e16e53f7631a4fb55142b803db29d9c3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施投资增长，数据中心需求持续提升
+| 来源：https://github.com/dib78eatl9/tici/commit/5f8cd591196700714baa6cf7b6ce96ef74f95c60?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储市场火热，产业链企业加快扩产
+| 来源：https://github.com/dib78eatl9/tici/commit/466f34cf6a2669ba5bb50615b8303cb67c5013a2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI算力平台升级，多行业开始部署应用
+| 来源：https://github.com/dib78eatl9/tici/commit/a597ea4123e704d1bc33c2db0088d120334698a5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI大模型推动GPU需求，行业景气度持续提升
+| 来源：https://github.com/dib78eatl9/tici/commit/2bc182b49b4ecd0efecc8e0410317a3d8495e05b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装需求增长，订单规模明显扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/092337fbd0a54bd4362e2ee1d18ac5cd6b97c1f9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业发展提速，企业关注算力成本优化
+| 来源：https://github.com/dib78eatl9/tici/commit/d39fcbb284f9d55a4165c941049a70bfa904b8b4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设热度上升，绿色节能技术受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/975fbbf852a320cf886417412fd5495aebee62a9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练与推理市场同步增长，硬件需求旺盛
+| 来源：https://github.com/dib78eatl9/tici/commit/3227c6bbf8f57a047790e8676b299e8557e1f8c0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU生态建设提速，应用适配持续推进
+| 来源：https://github.com/dib78eatl9/tici/commit/c5ce44f4b3be0568bf8bb75afdae67c45e39962c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业扩大AI投资，高端芯片市场热度不减
+| 来源：https://github.com/dib78eatl9/tici/commit/04f37ea498279392cf78057acb21769ab58a7c2a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格回升，AI需求成为增长动力
+| 来源：https://github.com/dib78eatl9/tici/commit/949a08391627739fb81c005672fc9994c43f8b78?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI产业链进入扩张阶段，服务器需求快速增加
+| 来源：https://github.com/dib78eatl9/tici/commit/8001600db9dbf42a465e1fe2be5700fc1e68d335?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能算力需求增长，国产芯片迎来发展机遇
+| 来源：https://github.com/dib78eatl9/tici/commit/d25fc957bc8015c93e91060f27e2dd2714fae927?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体市场逐步复苏，AI相关产业表现亮眼
+| 来源：https://github.com/dib78eatl9/tici/commit/045daa878d6013d0dbb260f6471a4de9b923dc21?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片需求提升，边缘设备市场持续扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/5f4e061d59f9ca973c618ebffcf1a2e38a37f4ba?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心投资增长，高端硬件市场升温
+| 来源：https://github.com/dib78eatl9/tici/commit/c061ef7e4dcb0cc60741ca5c53028338bb635b9d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装技术升级，AI芯片性能优化明显
+| 来源：https://github.com/dib78eatl9/tici/commit/13556f6b094159632b3381f1fd0f30f044233927?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型规模持续扩大，企业加快算力部署
+| 来源：https://github.com/dib78eatl9/tici/commit/796bb0356b0388f235f156704a43686ccc8b612c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技行业关注AI存储，带宽需求持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/d7dacf945d3ce5808adc41728d3b7a52309151fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷方案普及，节能需求推动市场发展
+| 来源：https://github.com/dib78eatl9/tici/commit/1c7a724d9579829f62a4f94557e6996428f666d9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器产业链升温，高性能GPU供给紧张
+| 来源：https://github.com/dib78eatl9/tici/commit/b7f1683f782e0e0192d3e149f2474f52483d0795?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力芯片进入落地阶段，多领域开始应用
+| 来源：https://github.com/dib78eatl9/tici/commit/280fa44378bd8dc12dcf0d5780f687f53bd7bc5b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业资本热度提升，硬件赛道持续活跃
+| 来源：https://github.com/dib78eatl9/tici/commit/f80a71fd22886cca4b736b015afea2182e83350c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片良率提升明显，先进封装订单快速增长
+| 来源：https://github.com/dib78eatl9/tici/commit/fe5ad851ea45372eaac79838143ae423e1f39fbc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施建设加快，行业进入新发展周期
+| 来源：https://github.com/dib78eatl9/tici/commit/b614c0b40d54090d1b8e9f664576afcf9eb6d659?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能算力需求持续增加，企业加速硬件升级
+| 来源：https://github.com/dib78eatl9/tici/commit/c632654430f0c68a5a7faae007ae757bc5c2590a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片市场竞争升温，国产厂商动作频频
+| 来源：https://github.com/dib78eatl9/tici/commit/92eeef39698a300962c0a17ab0afa344550299a7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心扩容提速，高性能服务器需求增长
+| 来源：https://github.com/dib78eatl9/tici/commit/782bd94e31c7786dd84be40a58303e8f1f57f6f0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型训练复杂度提升，存储效率成为关键
+| 来源：https://github.com/dib78eatl9/tici/commit/cb6ec4c6d5a436e94a54f99795b49efe1b4fbe3c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链景气回升，先进封装市场受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/931efc9b2b3f607bcc3d0576d314a0f2c89c0659?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能GPU需求扩大，AI行业热度持续上升
+| 来源：https://github.com/dib78eatl9/tici/commit/53c80e58e5fc9a2bb7ec278170a5613cc937e80b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片生态完善，软件适配能力提升
+| 来源：https://github.com/dib78eatl9/tici/commit/c8e9c3cb238503c663c9790baa4f2d9000bf2f47?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理应用快速普及，边缘设备市场升温
+| 来源：https://github.com/dib78eatl9/tici/commit/d1598811ad8ddde8c1e0b64978b88c906eab4e8c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技企业布局AI，算力投资规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/d1450c8008220839f71566a573b834b571f28370?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽内存需求激增，行业供需关系趋紧
+| 来源：https://github.com/dib78eatl9/tici/commit/928ade99a76d236f983e46680c305539729c5040?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU产品升级，行业应用覆盖范围扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/a1030a15c7614199b4f86292fa3e456d474764b8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施建设提速，多地推进算力中心布局
+| 来源：https://github.com/dib78eatl9/tici/commit/9afd45dbf4007ed53084e95e2e92bf257a735429?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进工艺升级，高性能芯片市场增长
+| 来源：https://github.com/dib78eatl9/tici/commit/5e23ece384fb81417522cdd42dc5ee02679d6457?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练效率优化，企业开始重视资源管理
+| 来源：https://github.com/dib78eatl9/tici/commit/01bc4bca25cd73dfb5f25fd1438c9c30a4fff041?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心市场持续扩张，液冷技术加速落地
+| 来源：https://github.com/dib78eatl9/tici/commit/9f0afd779edff96a0167803edef9a889045a1eb4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技行业加码AI布局，智能计算需求提升
+| 来源：https://github.com/dib78eatl9/tici/commit/157f1cb8c710ef9bd356359e673e2be513cac4d8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片企业扩产，先进封装订单持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/3d95bcd91cca120d9b8e031d6204c7e1a8f9eece?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场热度攀升，产业链企业受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/f0b16dad7a1eeb6504237e44e0532c4fddb578d5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算需求增长，科研领域应用扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/bc3e29ee147825b9074bb83785ea90f98096bd41?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片升级，终端设备智能化加速
+| 来源：https://github.com/dib78eatl9/tici/commit/8f004de9840b5b3ae3ed0c132140e63e4b959f8c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储与算力协同发展，AI行业进入新阶段
+| 来源：https://github.com/dib78eatl9/tici/commit/cb0bed9a2dbc9c278ffb9734d99252f570068fea?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业回暖，高端芯片需求持续释放
+| 来源：https://github.com/dib78eatl9/tici/commit/90e0a742daa95a4fb484a489102c3db874c8262d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练平台升级，企业级市场需求明显增加
+| 来源：https://github.com/dib78eatl9/tici/commit/0c9103485573997e542d23fa03e4956fe987838f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装技术突破，芯片性能持续优化
+| 来源：https://github.com/dib78eatl9/tici/commit/bf2b8914a8e21acfe1d8b7104bb9828d48536905?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设进入高峰期，服务器市场扩张
+| 来源：https://github.com/dib78eatl9/tici/commit/636c0fd84778fe6b6ff5f619d1a8e10b214f37c3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业竞争加剧，高性能存储成为焦点
+| 来源：https://github.com/dib78eatl9/tici/commit/60403d3c2b2b33bc8eb2363f0dc5ac191dad583b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业持续投资AI，算力市场保持活跃
+| 来源：https://github.com/dib78eatl9/tici/commit/59c0dfa3daace677144053d1a784998edb7f1409?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商生态建设提速，行业适配加强
+| 来源：https://github.com/dib78eatl9/tici/commit/0df3a7cc8986dec768b7dd080b0f5a519de0b02b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器订单增长明显，高端硬件需求旺盛
+| 来源：https://github.com/dib78eatl9/tici/commit/b0cd8979389534cbd9c379a8599b37b747325d1a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能计算市场升温，国产芯片迎来发展机会
+| 来源：https://github.com/dib78eatl9/tici/commit/84a4aec09f0e4c2ae2a7e24aa562fdbd16a843f3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练需求增加，数据中心带宽压力提升
+| 来源：https://github.com/dib78eatl9/tici/commit/5675860cf14b960c66a74685f45f74e110ef08d2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装良率优化，先进工艺推动行业升级
+| 来源：https://github.com/dib78eatl9/tici/commit/e5863afa3278899f2fe8c3561fea17c86841d006?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI市场快速发展，硬件需求持续增长
+| 来源：https://github.com/dib78eatl9/tici/commit/aa558e3cf17b88aa7ed193bf1e09f29184a1a4fb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储市场扩张，AI应用推动行业回暖
+| 来源：https://github.com/dib78eatl9/tici/commit/c1655076defb059e3fc64fcd8671840acb792278?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力芯片持续迭代，多场景开始落地
+| 来源：https://github.com/dib78eatl9/tici/commit/c3b25461214443fe6ac4f3bee000c9926a2cb023?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求扩大，边缘计算行业迎来新机遇
+| 来源：https://github.com/dib78eatl9/tici/commit/b64aa1519e17a0ff89e04b28585282f4154de353?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心投资增加，绿色节能方案受重视
+| 来源：https://github.com/dib78eatl9/tici/commit/a181529a8fb5b447744e8ce6c86089031bab2919?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业景气提升，高性能GPU需求增长
+| 来源：https://github.com/dib78eatl9/tici/commit/552c547665b587d3e3d4f1536503267670f78599?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI大模型推动产业升级，企业加速硬件采购
+| 来源：https://github.com/dib78eatl9/tici/commit/f4bd369bf31899fedde80d9dbe1a8adf9d8eef22?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI生态逐步完善，行业应用持续扩展
+| 来源：https://github.com/dib78eatl9/tici/commit/e19136f1b3c96816bc34d62e057cd127cd4ad1ec?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业布局高端算力，AI市场热度不减
+| 来源：https://github.com/dib78eatl9/tici/commit/0d6a5079f2a5df3255b48ca33020f6ebe9bf44db?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储需求旺盛，相关产业链持续受益
+| 来源：https://github.com/dib78eatl9/tici/commit/70b3bef6fba24c1e67b93b18e819e3646d7eab8e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场保持高景气，订单规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/e0b4ed98e2383ad1122f31cee099f2f4801a745d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+芯片封装技术创新，产业链协同效应增强
+| 来源：https://github.com/dib78eatl9/tici/commit/976829ba2b93c385a09bce7761202a3624a49e1f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心建设加速，高性能设备需求提升
+| 来源：https://github.com/dib78eatl9/tici/commit/2df650293e0d3b952417f384d4717b27f756ce17?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业应用深入发展，算力基础设施成重点
+| 来源：https://github.com/dib78eatl9/tici/commit/ebe2d96c613d773f970f06563ede47dbcf266bda?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU市场热度提升，企业级应用逐步增加
+| 来源：https://github.com/dib78eatl9/tici/commit/16d1042d602ee12016ea82d26c02aecbc7613174?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片市场回暖，AI训练需求推动增长
+| 来源：https://github.com/dib78eatl9/tici/commit/8634a8ac47d16f068de53b400b3672080cc27838?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力平台升级，数据处理效率持续提高
+| 来源：https://github.com/dib78eatl9/tici/commit/e83cc2798e3fbbc0c026e51b1ddeb22a554bbb92?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装市场扩容，企业订单增长明显
+| 来源：https://github.com/dib78eatl9/tici/commit/bb8c241c8de9cc17c628e6b6aca6700763ca192f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场快速扩张，终端智能化趋势明显
+| 来源：https://github.com/dib78eatl9/tici/commit/b29e460ae15fb527492966ec34a5b1d849b76ae7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷技术普及，节能需求持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/976487a359c09e16e127c5d3f08c0c4907e9dadb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产芯片性能优化，行业竞争进入新阶段
+| 来源：https://github.com/dib78eatl9/tici/commit/635f6ada73959c2f238412bf76e2d492dbc985f2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求激增，产业链企业加快扩产
+| 来源：https://github.com/dib78eatl9/tici/commit/0148b4b16b4b1f2e1eb6727722771175588cc221?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算市场发展迅速，科研需求持续增长
+| 来源：https://github.com/dib78eatl9/tici/commit/45b0f0895296ebf80e10b24ccc59deec4910ead6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模扩大，企业重视存储系统升级
+| 来源：https://github.com/dib78eatl9/tici/commit/a492e8c57aa79ccdb2dfff819e5899e19908df03?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链恢复活力，高端设备需求增加
+| 来源：https://github.com/dib78eatl9/tici/commit/cf06005ff85506d93a80568f7f213680125116db?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片进入应用阶段，多行业开始尝试部署
+| 来源：https://github.com/dib78eatl9/tici/commit/a6bb12ef74a1428d3bf15d494f0ae0ff3878d1a4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业资本关注度提升，硬件赛道持续活跃
+| 来源：https://github.com/dib78eatl9/tici/commit/ef4627042fd97defd862d616aca5020638ab7af7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽内存价格上涨，市场供需关系紧张
+| 来源：https://github.com/dib78eatl9/tici/commit/6986dd235c4a56f14d89714c72b2b81b29373dd3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+智能算力中心建设推进，AI产业发展加速
+| 来源：https://github.com/dib78eatl9/tici/commit/52b37d828eb5e2efb72d15dbf039507a51264051?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU适配能力提升，软件生态逐渐成熟
+| 来源：https://github.com/dib78eatl9/tici/commit/f0bd65bc846989a2cc2c2dce9e3691e0d17a4b25?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器产业链景气提升，市场需求持续释放
+| 来源：https://github.com/dib78eatl9/tici/commit/61fc8275c9143ac9ca3f00af17ead3dbef01eb1d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心升级提速，高性能硬件需求扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/43ecbe5c3bcd6e1e17c74ad1c1764abe14d42d32?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练与推理同步增长，芯片市场持续升温
+| 来源：https://github.com/dib78eatl9/tici/commit/4ebf03f2b3c547935c687c234a9245766b9bccac?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进工艺突破，高性能芯片竞争加剧
+| 来源：https://github.com/dib78eatl9/tici/commit/6d6dbd5087a7c6acdc545180b514aaee98c6db8d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力平台优化，多领域AI应用开始落地
+| 来源：https://github.com/dib78eatl9/tici/commit/f56b33980f2c96151a1ca3b9d4650477ecd84e12?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入高速发展期，硬件需求持续扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/4bfd23c7c12d116649c147c23a7bcf44654cc945?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技市场关注AI存储，带宽问题成为热点
+| 来源：https://github.com/dib78eatl9/tici/commit/f58cfbcc4fd6258dc67cba1777e5ed3cc04d00d7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能GPU供需偏紧，企业加快新品布局
+| 来源：https://github.com/dib78eatl9/tici/commit/bb9288c8147361fa70230dffaed96b7a31d637a0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设热度持续，绿色算力受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/9724c9bb9c4089c7af678bdcc21b103d96783f7e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装企业扩产，订单规模持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/b45b42bf352b986ff94f450a9609344ee2007255?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求提升，边缘智能设备市场升温
+| 来源：https://github.com/dib78eatl9/tici/commit/8500a415b434511f2448020727b9053463700f2b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型参数增长，企业加速算力资源部署
+| 来源：https://github.com/dib78eatl9/tici/commit/df222277764c49b399990822547eb0c77194c978?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技行业聚焦AI，芯片产业链持续活跃
+| 来源：https://github.com/dib78eatl9/tici/commit/e504feb0ad084fb24b0c7d436e54ac4e0636796f?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体市场逐步复苏，高性能计算需求回暖
+| 来源：https://github.com/dib78eatl9/tici/commit/92eafced5bdf5633695b8f86a459babe0082df96?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI生态建设加快，行业应用场景不断增加
+| 来源：https://github.com/dib78eatl9/tici/commit/f2bb3146a30c9dac0cfbe9ab1e689b1c3f2c48b6?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心市场扩张，高端服务器需求明显增长
+| 来源：https://github.com/dib78eatl9/tici/commit/d97a201142a079afa15ed76fdbe37c9663cc4a86?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施投资增加，行业进入新发展阶段
+| 来源：https://github.com/dib78eatl9/tici/commit/3deb5f6c87be65d0460eb01364f3d0e572017b21?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储热度上升，产业链企业积极布局
+| 来源：https://github.com/dib78eatl9/tici/commit/be5aa1de39c9efac29d2fc7cc9f5f4bfb6ffce39?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI芯片良率提升，先进封装推动性能优化
+| 来源：https://github.com/dib78eatl9/tici/commit/64aa7432f7921b832fcbb0bc5eb600c8b6d86fd0?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU企业持续创新，行业竞争逐步升级
+| 来源：https://github.com/dib78eatl9/tici/commit/d39bcea92b65892af8b293a0581640912bc1f43a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练需求持续增加，算力市场保持高景气
+| 来源：https://github.com/dib78eatl9/tici/commit/f50c4c9c28ded925af814554b06762dd33a48b77?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装需求扩大，企业订单稳步增长
+| 来源：https://github.com/dib78eatl9/tici/commit/06c0c23408da42906d3325cba6b77ea6091f6624?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心升级潮开启，液冷市场需求上升
+| 来源：https://github.com/dib78eatl9/tici/commit/5d8a97a633cb2aef7c3adb279cc7e260c976607c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场扩张，终端设备智能化趋势明显
+| 来源：https://github.com/dib78eatl9/tici/commit/1d780d94edf144ee01aef1d92217270258126c6c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产高性能芯片突破，行业关注度持续提升
+| 来源：https://github.com/dib78eatl9/tici/commit/6c9e2ac7ce50cd65a88fab89f53894c57f84da23?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场保持活跃，高端硬件需求增加
+| 来源：https://github.com/dib78eatl9/tici/commit/3cd2a60072c356a9d12d2bf3c66a7400367630f4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球AI竞争加剧，企业持续扩大算力投资
+| 来源：https://github.com/dib78eatl9/tici/commit/30e5303388c5634865687f455926273c546cc83e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储市场需求回暖，AI应用推动行业增长
+| 来源：https://github.com/dib78eatl9/tici/commit/df95c9a94f0db04a02be649faa545a60e7c5bbaf?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片持续升级，多行业应用开始深化
+| 来源：https://github.com/dib78eatl9/tici/commit/086b11fe18e612bb5a7b883acad5f7831ffd08a5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+科技企业布局智能算力，数据中心规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/f8bc6c08ef99ae05d67fe4c141d8a3c260239fe2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练效率优化，企业重视资源协同管理
+| 来源：https://github.com/dib78eatl9/tici/commit/a1b4d036633d1fa3eda45d4c6de3cfce4c2a906d?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业回暖，高性能芯片市场需求增加
+| 来源：https://github.com/dib78eatl9/tici/commit/0b5f581732accc66e6c559007f78d72a9455bbc4?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设提速，服务器产业链景气提升
+| 来源：https://github.com/dib78eatl9/tici/commit/b88bc1a9417b9dd8a31b65125d7fb07032b6c4e7?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型快速迭代，硬件市场迎来新增长点
+| 来源：https://github.com/dib78eatl9/tici/commit/32d8fd1584696b5ae2b9475bcb0a911ec22c9f08?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进工艺发展加快，高端芯片需求旺盛
+| 来源：https://github.com/dib78eatl9/tici/commit/71e4ff357c5f5d99f395d42c7a399983df24dda8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片需求扩大，边缘计算市场升温
+| 来源：https://github.com/dib78eatl9/tici/commit/dbec9764fb5372c765d62b5384cfc6f866706f7e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球数据中心投资增加，高性能存储受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/ed9b165ab711af72ec4cf5ec3a3a8ed4f1ad0fd5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入新阶段，算力与存储协同升级
+| 来源：https://github.com/dib78eatl9/tici/commit/e8b3c1ccef54222090a296b90f3895a6f534458e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU产业链完善，AI应用场景持续扩展
+| 来源：https://github.com/dib78eatl9/tici/commit/a8b089b92bd1a628bfda14af75218e48203cfa1b?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练规模提升，高性能服务器需求增加
+| 来源：https://github.com/dib78eatl9/tici/commit/ff6e4648a57c50bceed519f2fb358c0a68750c6c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进封装技术升级，行业竞争持续加剧
+| 来源：https://github.com/dib78eatl9/tici/commit/66039814747ce4c2ee2d29af7eafc64e13e858e5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心扩容加快，绿色节能方案受重视
+| 来源：https://github.com/dib78eatl9/tici/commit/28faeccd36c12345b36e00a7640121f1835a792c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理需求增长，智能终端市场持续活跃
+| 来源：https://github.com/dib78eatl9/tici/commit/7ccfe034e675f9829d63c97202915932c647add9?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽内存市场火热，产业链企业加速扩产
+| 来源：https://github.com/dib78eatl9/tici/commit/e2abae43b7fcd02de9e38d50051cee903a731ca5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片性能优化，多行业部署进程加快
+| 来源：https://github.com/dib78eatl9/tici/commit/e18180f858549cbcd8df08619d7d67188677ce92?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI基础设施建设升温，数据中心投资持续增加
+| 来源：https://github.com/dib78eatl9/tici/commit/7140af59d6639504278de5e2524cd12340ff780a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业景气回暖，高性能GPU需求旺盛
+| 来源：https://github.com/dib78eatl9/tici/commit/2f4a07882f790ed6c97562670fa554f43d346254?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场扩张，产业链企业订单增长明显
+| 来源：https://github.com/dib78eatl9/tici/commit/5e86b07e62bb1f24e8a3e7bcd6c2979afa569edb?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷技术普及，节能需求不断提升
+| 来源：https://github.com/dib78eatl9/tici/commit/48c801c00765c2c0d159ed2f628d2e8a975ef9f2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练成本上涨，企业关注资源优化方案
+| 来源：https://github.com/dib78eatl9/tici/commit/ad6b80c275487d14ff53a31debe69e6c3626cb21?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产算力平台持续升级，行业生态逐渐成熟
+| 来源：https://github.com/dib78eatl9/tici/commit/ac54e13197724f39ffbe0ec27b5b101a527a9352?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技市场聚焦AI，硬件投资规模扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/678174d1b3972f70ae773fdb402e143d62ba0001?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业发展迅速，高性能计算需求持续增长
+| 来源：https://github.com/dib78eatl9/tici/commit/6ab922659170387cdd097af5cee1b92800fe1395?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+存储芯片价格回升，AI应用推动行业回暖
+| 来源：https://github.com/dib78eatl9/tici/commit/8a5ab5a3d487edb60ae3ad35544bda61ca2b85fc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU厂商持续发力，生态建设不断推进
+| 来源：https://github.com/dib78eatl9/tici/commit/b170a8ba29f4bb90c0cd83b7b97c7c9f385f1ca8?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器需求增加，高端芯片市场持续升温
+| 来源：https://github.com/dib78eatl9/tici/commit/d82cefab62dbb1dea6da394597efa387b028f948?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体产业链恢复增长，先进工艺需求扩大
+| 来源：https://github.com/dib78eatl9/tici/commit/b5e0b42248938a03f68142f5b5ca510cdfeea945?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理应用落地提速，边缘设备市场扩张
+| 来源：https://github.com/dib78eatl9/tici/commit/4ac4502e38a0d82b3a79435c3e6ad5c15337fc3a?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心建设热度不减，高性能硬件受关注
+| 来源：https://github.com/dib78eatl9/tici/commit/3b5ec67ff62b434fdca1b273cb76b932f175a335?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI模型训练复杂度提升，存储效率成核心问题
+| 来源：https://github.com/dib78eatl9/tici/commit/9fb4c32b703e8c48f97e9f432e4022b57c176fdc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产先进封装企业扩产，订单规模持续增长
+| 来源：https://github.com/dib78eatl9/tici/commit/e87a80db8b5e51a82a8ff7cf7e887ab995d2fedc?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI算力市场保持活跃，行业竞争进入新阶段
+| 来源：https://github.com/dib78eatl9/tici/commit/f0c3d916f3d7462e6966aef4e71797dc50681b8c?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能计算需求扩大，科研市场快速发展
+| 来源：https://github.com/dib78eatl9/tici/commit/d50a17171b0dd810098c858e9e2364c089216d7e?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练与推理同步增长，GPU市场供需趋紧
+| 来源：https://github.com/dib78eatl9/tici/commit/918c91bc7963f2839ae01ef5bc4efa980f8c6e16?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体行业回暖，AI相关产业链持续受益
+| 来源：https://github.com/dib78eatl9/tici/commit/12f06ec67a151eae6d1368a349f8730d70b69a05?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI芯片生态升级，软件适配能力增强
+| 来源：https://github.com/dib78eatl9/tici/commit/7d327b8d51303144b871e551df23c5aeded67fc5?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心投资规模扩大，绿色算力趋势明显
+| 来源：https://github.com/dib78eatl9/tici/commit/469a97ec139a94d9263efff6a603a4fc76eef139?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器市场热度提升，产业链企业积极布局
+| 来源：https://github.com/dib78eatl9/tici/commit/ec2e416e7408faa82f67c40075508c821fee0834?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高带宽存储需求增长，行业供给压力持续存在
+| 来源：https://github.com/dib78eatl9/tici/commit/60b34a590f7ef2febc36d16e9b53a1ddecbe37a1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理芯片升级，智能设备应用场景增加
+| 来源：https://github.com/dib78eatl9/tici/commit/e1b6dd55794af20a061494e472ec8f565c529da2?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产GPU性能优化，多领域开始规模化部署
+| 来源：https://github.com/dib78eatl9/tici/commit/a10e24226839f58e0657272693b632c95bc92d68?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+全球科技企业布局AI，算力基础设施持续建设
+| 来源：https://github.com/dib78eatl9/tici/commit/4afc1c14c36f36744a8a2f9d8cd001989c78d5ad?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI训练效率提升，企业开始优化硬件架构
+| 来源：https://github.com/dib78eatl9/tici/commit/3d3e0c84c561ab8b213e5555f464973c6821e0a3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体先进工艺升级，高端芯片市场热度攀升
+| 来源：https://github.com/dib78eatl9/tici/commit/d87db1a51c0860059fa5620754292bda1bf93451?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+数据中心液冷需求增加，节能方案持续推广
+| 来源：https://github.com/dib78eatl9/tici/commit/3bc363e699b2249f9e4a0659e42b13b762694daa?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI行业进入扩张周期，硬件市场需求旺盛
+| 来源：https://github.com/dib78eatl9/tici/commit/b8c0b1222127c3e36170e09be03ba9fcf8a86946?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+国产AI平台持续完善，多行业应用逐步深化
+| 来源：https://github.com/dib78eatl9/tici/commit/a524cf28a870474f976351cc06c4d24d2a709ae1?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+高性能存储市场扩张，AI训练需求快速增长
+| 来源：https://github.com/dib78eatl9/tici/commit/36d08e90b4d38ea1b91adfc6e38a098e1e3bd730?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI服务器订单持续增加，产业链景气度提升
+| 来源：https://github.com/dib78eatl9/tici/commit/a29676a8ac3d1d0a9e3f7ca6a9fb942df6887ef3?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+半导体企业加速扩产，高端封装需求增长
+| 来源：https://github.com/dib78eatl9/tici/commit/a597e2df572b30115a1a88a45c1530e449c0a917?/%7B%E6%95%B0%E5%AD%97=3%7D=%7B%E6%95%B0%E5%AD%97=3%7D
+
+AI推理市场升温，边缘智能设备需求扩大
+| 来源：https://github.com/bq8e4075de/zhlnm/blob/main/2026%E7%A7%91%E6%99%AE%E7%BA%AA%E8%A1%8C%EF%BC%9A967%E5%BD%A9%E7%BD%91-%E6%BE%8E%E6%B9%83%E6%99%A8%E6%8A%A5.md
+
+数据中心升级趋势明显，高性能算力成核心
+| 来源：https://github.com/bq8e4075de/zhlnm/blob/main/2026%E7%95%85%E8%AE%AF%EF%BC%9A980%E5%BD%A9%E7%A5%A8-%E9%A1%BA%E4%B8%B0%E8%A7%86%E9%A2%91.md
+
+国产GPU生态建设提速，企业级应用不断增加
+| 来源：https://github.com/bq8e4075de/zhlnm/blob/main/2026%E7%AC%AC%E4%B8%80%E7%9F%A9%E9%98%B5%EF%BC%9A991%E5%A8%B1%E4%B9%90-%E6%8A%96%E9%9F%B3%E9%97%AE%E5%8D%B7.md
+
+AI产业链持续发展，算力与存储需求同步提升
+| 来源：https://github.com/bq8e4075de/zhlnm/blob/main/2026%E5%AE%98%E6%96%B9%E5%8A%A8%E6%80%81%EF%BC%9A998%E5%BD%A9%E7%A5%A8-%E6%8A%96%E9%9F%B3%E8%B4%A2%E7%BB%8F.md
